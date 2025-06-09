@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Laptop Lenovo ThinkPad",
+    "price": 4999.99,
+    "stock": 10,
+    "category": "Elektronika"
+  },
+  {
+    "name": "Smartfon Samsung Galaxy",
+    "price": 2899.0,
+    "stock": 8,
+    "category": "RTV"
+  },
+  {
+    "name": "Mysz Logitech",
+    "price": 149.0,
+    "stock": 20,
+    "category": "Akcesoria"
+  },
+  {
+    "name": "Monitor LG UltraWide",
+    "price": 1199.0,
+    "stock": 5,
+    "category": "RTV"
+  },
+  {
+    "name": "Laptop",
+    "price": 100.0,
+    "stock": 1,
+    "category": "1"
+  }
+]
