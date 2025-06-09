@@ -9,21 +9,20 @@ Aplikacja stworzona w oparciu o projekt na studai, w Javie z wykorzystaniem Swin
 ## 📸 Zrzuty ekranu
 
 ### 🔐 Logowanie
-![Logowanie](screenshots/rejestracja.png)
-![Logowanie](screenshots/login.png)
 
+![Rejestracja](screenshots/rejestracja.png)
+![Logowanie](screenshots/login.png)
 
 ### 🛍️ Sklep
 
-![Sklep](screenshots/add_forma_platnosci.png)
-![Sklep](screenshots/add_opcja_rabat.png)
-![Sklep](screenshots/add_potwierdzenie.png)
-
+![Forma płatności](screenshots/forma_platnosci.png)
+![Opcja rabatu](screenshots/opcja_rabat.png)
+![Potwierdzenie](screenshots/potwierdzenie.png)
 
 ### 🧑‍💼 Panel administratora
-![Panel administratora](screenshots/panel_zamowienia.png)
-![Panel administratora](screenshots/add_product.png)
 
+![Panel zamówienia](screenshots/panel_zamowienia.png)
+![Dodawanie produktu](screenshots/add_product.png)
 ## ⚙️ Technologie
 - Java 17+
 - Swing (GUI)
