@@ -17,7 +17,7 @@ Aplikacja stworzona w oparciu o projekt na studai, w Javie z wykorzystaniem Swin
 
 ![Sklep](screenshots/add_forma_platnosci.png)
 ![Sklep](screenshots/add_opcja_rabat.png)
-![Sklep](screenshots/add_potwierdzenie_rabat.png)
+![Sklep](screenshots/add_potwierdzenie.png)
 
 
 ### 🧑‍💼 Panel administratora
